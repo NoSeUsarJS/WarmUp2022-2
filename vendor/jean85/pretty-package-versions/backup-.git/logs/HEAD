@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 b2c4ec2033a0196317a467cb197c7c843b794ddf root <root@DesarrolloWeb.hu2m2hv2ylgutnmk4xuk22dhpf.jx.internal.cloudapp.net> 1619812230 +0000	clone: from /home/azureuser/.composer/cache/vcs/https---github.com-Jean85-pretty-package-versions.git/
+b2c4ec2033a0196317a467cb197c7c843b794ddf 1e0104b46f045868f11942aea058cd7186d6c303 root <root@DesarrolloWeb.hu2m2hv2ylgutnmk4xuk22dhpf.jx.internal.cloudapp.net> 1619812230 +0000	checkout: moving from 2.x to 1.6.0
