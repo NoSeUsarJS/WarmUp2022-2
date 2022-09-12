@@ -1,3 +1,5 @@
+//Función para obtener el valor actual de la UTM.
+
 const cheerio = require('cheerio');
 const request = require('request-promise')
 let today = new Date();

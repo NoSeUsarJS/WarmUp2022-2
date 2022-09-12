@@ -1,3 +1,5 @@
+//Función para obtener el impuesto en función del sueldo imponible
+
 function tax (SI, UTM){
     if (SI <= 13.5 * UTM){
         return 0;
