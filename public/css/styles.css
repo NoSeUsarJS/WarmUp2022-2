@@ -1,53 +1,44 @@
-#override body{
-  background-image: url('public/images/bg1.jpg');
-  backdrop-filter: blur(3px);
-}
 
-body#bg-img{
-  background-image: url('public/images/bg1.jpg');
-  backdrop-filter: blur(2px);
-}
-#bootstrap-overrides div{
-  width: 30%;
-  border-radius: 20px;
-}
-[id=outline]{
-  border-style: solid; 
-  border-color: rgb(30,139,236);
-  border-width: 1px;
-}
-
-.form-signin {
-  width: 100%;
-  max-width: 330px;
-  padding: 15px;
-  margin: auto;
-}
-.form-signin .checkbox {
-  font-weight: 400;
-}
-.form-signin .form-control {
-  position: relative;
-  box-sizing: border-box;
-  height: auto;
-  padding: 10px;
+.button {
+  border: 3px solid #FB5E03;
+  border-style: dashed;
+  color: black;
+  padding: 80px 125px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
   font-size: 16px;
+  margin: 80px 10px;
+  cursor: pointer;
 }
-.form-signin .form-control:focus {
-  z-index: 2;
+.buttonCalc {
+  border: 3px solid #f38654;
+  border-style: dashed;
+  color: black;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 100px 120px;
+  cursor: pointer;
 }
-.top {
-  margin-bottom: -1px;
-  border-bottom-right-radius: 0;
-  border-bottom-left-radius: 0;
+.anim{
+  font-size: 2rem;
+  border: 0;
+  padding: 30px 70px;
+  background-image: linear-gradient(to right, 
+    #fdb94e,
+    #f9a852,
+    #f69653,
+    #f38654,
+    #f07654,
+    #ed6856,
+    #ef5956,
+    #ee4c58
+  );
 }
-.middle {
-  margin-bottom: -1px;
-  margin-top: -1px;
-  border-radius: 0;
-}
-.bottom {
-  margin-bottom: 10px;
-  border-top-left-radius: 0;
-  border-top-right-radius: 0;
-}
+
+.button1 {background-color: #EC0000;} /* red */
+.button2 {background-color: #FFFFF0;} /* white */
+.button3 {background-color: #fdb94e;} 
