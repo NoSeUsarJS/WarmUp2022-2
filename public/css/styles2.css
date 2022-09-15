@@ -1,0 +1,44 @@
+
+.button {
+  border: 3px solid #FB5E03;
+  border-style: dashed;
+  color: black;
+  padding: 80px 125px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 80px 10px;
+  cursor: pointer;
+}
+.buttonCalc {
+  border: 3px solid #f38654;
+  border-style: dashed;
+  color: black;
+  padding: 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 100px 120px;
+  cursor: pointer;
+}
+.anim{
+  font-size: 2rem;
+  border: 0;
+  padding: 30px 70px;
+  background-image: linear-gradient(to right, 
+    #fdb94e,
+    #f9a852,
+    #f69653,
+    #f38654,
+    #f07654,
+    #ed6856,
+    #ef5956,
+    #ee4c58
+  );
+}
+
+.button1 {background-color: #EC0000;} /* red */
+.button2 {background-color: #FFFFF0;} /* white */
+.button3 {background-color: #fdb94e;} 
